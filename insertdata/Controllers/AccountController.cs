@@ -9,12 +9,6 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using insertdata.Models;
-
-
-
-
-
-
 namespace insertdata.Controllers
 {
     [Authorize]
