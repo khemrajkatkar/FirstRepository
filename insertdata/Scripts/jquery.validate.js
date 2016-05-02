@@ -11,18 +11,6 @@
  * under the terms set out in this paragraph. All notices and licenses
  * below are for informational purposes only.
  *
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  * NUGET: END LICENSE TEXT */
 /*!
  * jQuery Validation Plugin 1.11.1
